@@ -1,2 +1,2 @@
 # leetcode
-LeetCode 代码实现。
+LeetCode 代码实现
